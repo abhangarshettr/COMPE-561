@@ -13,4 +13,4 @@ This repository is in regards to the Web Development Course for COMPE 561. The c
 - 📫 How to reach me ... abhangarshettr6376@sdsu.edu
 -mnfd
 
-- New line
+- Learning full stack development
